@@ -1,3 +1,3 @@
-const {a, add} = require('./local-1')
+const add = requi
 
-console.log(add(2, 3));
+add(2, 3)
